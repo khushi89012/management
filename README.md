@@ -30,8 +30,8 @@ project-root/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/task-manager-mean.git
-cd task-manager-mean
+git clone [https://github.com/yourusername/task-manager-mean.git](https://github.com/khushi89012/management.git)
+
 ```
 
 ---
@@ -54,7 +54,7 @@ JWT_SECRET=your_jwt_secret
 #### Start Backend Server
 
 ```bash
-npm run dev
+npm start
 ```
 
 ---
