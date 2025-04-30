@@ -1,4 +1,4 @@
-# MEAN Stack Task Management Application (with React)
+
 
 A full-stack task management app built using React (Frontend), Node.js + Express (Backend), and MongoDB (Database). Users can register, log in, and manage their tasks (CRUD). JWT is used for authentication.
 
